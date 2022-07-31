@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "657856054973",
+    "project_id": "trapeazium",
+    "storage_bucket": "trapeazium.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657856054973:android:a2bc7de00babbe3eab99d4",
+        "android_client_info": {
+          "package_name": "com.example.trapeazium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657856054973-8gmsfi97dd779btqa8sral3e5o3inhrc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trapeazium",
+            "certificate_hash": "fd0745e5eac66314f1cc90cc96f78d0096c57501"
+          }
+        },
+        {
+          "client_id": "657856054973-5i3o6nbj3imkjq3fjev10314r9i4adgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6nl3PYxHL6LDJ2XQ4Sctmd8BCube1lO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657856054973-5i3o6nbj3imkjq3fjev10314r9i4adgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
