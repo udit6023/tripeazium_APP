@@ -1,41 +1,41 @@
 {
   "project_info": {
-    "project_number": "657856054973",
-    "project_id": "trapeazium",
-    "storage_bucket": "trapeazium.appspot.com"
+    "project_number": "873716339631",
+    "project_id": "tripeazium-b5c86",
+    "storage_bucket": "tripeazium-b5c86.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:657856054973:android:a2bc7de00babbe3eab99d4",
+        "mobilesdk_app_id": "1:873716339631:android:77fba99bfbdb7ee586555a",
         "android_client_info": {
-          "package_name": "com.example.trapeazium"
+          "package_name": "com.example.tripeazium"
         }
       },
       "oauth_client": [
         {
-          "client_id": "657856054973-8gmsfi97dd779btqa8sral3e5o3inhrc.apps.googleusercontent.com",
+          "client_id": "873716339631-ul6lhdiks21okr5mu8cs1023kpmhcgr2.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.trapeazium",
+            "package_name": "com.example.tripeazium",
             "certificate_hash": "fd0745e5eac66314f1cc90cc96f78d0096c57501"
           }
         },
         {
-          "client_id": "657856054973-5i3o6nbj3imkjq3fjev10314r9i4adgv.apps.googleusercontent.com",
+          "client_id": "873716339631-o1r31avjgfine242d0uqo2763nraolbc.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD6nl3PYxHL6LDJ2XQ4Sctmd8BCube1lO4"
+          "current_key": "AIzaSyAyTTtkmfLJAF0GM4ibGpCr8hSLfpOOWek"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "657856054973-5i3o6nbj3imkjq3fjev10314r9i4adgv.apps.googleusercontent.com",
+              "client_id": "873716339631-o1r31avjgfine242d0uqo2763nraolbc.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
