@@ -41,7 +41,9 @@ bool _isVisible=false;
      @override
   void initState() {
     selectedUser=users[0];
-    print(selectedUser);
+    debugPrint('${selectedUser}');
+    super.initState();
+    
   }
   @override
   Widget build(BuildContext context) {
@@ -51,7 +53,7 @@ bool _isVisible=false;
       backgroundColor: CupertinoColors.systemGrey6,
       appBar: AppBar(
         backgroundColor:CupertinoColors.systemGrey2,
-        title: Text('Tripeazium'),
+        title: const Text('Tripeazium'),
         
       ),
       body: Column(
@@ -64,7 +66,7 @@ bool _isVisible=false;
           SizedBox(height:height/7,),
           Center(
             child: Container(
-              child:  new DropdownButton<User>(
+              child:  DropdownButton<User>(
                 isExpanded: true,
                 value: selectedUser,
                 onChanged: (newValue) {
@@ -78,7 +80,7 @@ bool _isVisible=false;
                     value: user,
                     child: new Text(
                       user.clgName,
-                      style: new TextStyle(color: Colors.black),
+                      style: const TextStyle(color: Colors.black),
                     ),
                   );
                 }).toList(),
