@@ -45,8 +45,7 @@ bool _isVisible=false;
   }
   @override
   Widget build(BuildContext context) {
-  double height=MediaQuery.of(context).size.height as double;
-  double width=MediaQuery.of(context).size.height as double;
+  double height=MediaQuery.of(context).size.height;
     
     return Scaffold(
       backgroundColor: CupertinoColors.systemGrey6,
